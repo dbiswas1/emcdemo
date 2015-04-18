@@ -4,7 +4,7 @@
     <tr>
         <td width="70%"></td>
         <td align="right"><img src="<spring:url value="/resources/images/spring-pivotal-logo.png" htmlEscape="true" />"
-                               alt="Sponsored by Pivotal"/></td>
+                               alt="Sponsored by Pivotal edited for emc demo"/></td>
     </tr>
 </table>
 
