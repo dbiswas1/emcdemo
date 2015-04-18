@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spring PetClinic Sample Applicationtest
 
 ## What does it look like?
@@ -198,3 +199,6 @@ Here is a list of them:
 
 
 
+=======
+Emc Demo
+>>>>>>> ad5f721794f0951312fc7f14c663dfbf76c83cc8
